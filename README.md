@@ -1,4 +1,4 @@
-#Simulation of Downhill Skiing
+# Simulation of Downhill Skiing
 This project involves modeling and animation of a skier and associated environment with following features.
 
 a) The modeling of a skier is represented as a hierarchical model with an articulated structure. The model can be seen as a tree.
